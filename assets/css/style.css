@@ -525,6 +525,8 @@ section {
   background: url("../img/scene.avif") center center no-repeat;
   background-size: cover;
   min-height: 500px;
+  border-radius: 10px;
+  box-shadow: 5px 10px grey;
 }
 .about .skills-content {
   margin-top: 30px;
