@@ -527,6 +527,7 @@ section {
   min-height: 500px;
   border-radius: 10px;
   box-shadow: 5px 10px grey;
+  margin-bottom: 15px;
 }
 .about .skills-content {
   margin-top: 30px;
